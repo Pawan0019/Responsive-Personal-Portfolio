@@ -31,19 +31,20 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 ---
 
 ## Folder Structure
-  📂 Portfolio Website
-  ├ 📜 index.html # Main HTML file
-  ├ 📜 style.css # Styling file
-  ├ 📂 images # Folder for images and assets
-  │ ├ 📜 logo.png # Logo file
-  │ ├ 📜 bg.jpg # Background image
-  │ ├ 📜 bg_phone.jpg # Mobile-specific background image
-  │ ├ 📜 user.jpg # Profile picture
-  │ ├ 📜 NoSQL.pdf # Certificate: NoSQL
-  │ ├ 📜 SpringBoot.pdf # Certificate: Spring Boot
-  │ └ 📜 JavaScript.pdf # Certificate: JavaScript Essentials
-  └ 📜 README.md # Documentation (this file)
 
+- **Portfolio Website**
+  - `index.html` - Main HTML file  
+  - `style.css` - Styling file  
+  - **images** - Folder for images and assets  
+    - `logo.png` - Logo file  
+    - `bg.jpg` - Background image  
+    - `bg_phone.jpg` - Mobile-specific background image  
+    - `user.jpg` - Profile picture  
+    - `NoSQL.pdf` - Certificate: NoSQL  
+    - `SpringBoot.pdf` - Certificate: Spring Boot  
+    - `JavaScript.pdf` - Certificate: JavaScript Essentials  
+    - `Build_Recommender_sys.pdf` - Certificate: Recommender Systems  
+  - `README.md` - Documentation file
 
 ---
 
@@ -62,7 +63,7 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
    ```bash
    git clone https://github.com/Pawan0019/Responsive-Personal-Portfolio.git
    ```
-  2. Open index.html in your browser to view the website locally.\
+  2. Open index.html in your browser to view the website locally.
 ---
 ## Education
   * B. Tech in Computer Science Engineering (AI/ML):
