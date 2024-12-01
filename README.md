@@ -17,7 +17,7 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 
 ## Live Demo
 
-**Check out the live site here:** [Portfolio Website](https://<your-username>.github.io/<repository-name>/)
+**Check out the live site here:** [Portfolio Website](https://Pawan0019.github.io/Responsive-Personal-Portfolio/)
 
 ---
 
@@ -32,17 +32,17 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 
 ## Folder Structure
   📂 Portfolio Website
-  ┣ 📜 index.html # Main HTML file
-  ┣ 📜 style.css # Styling file
-  ┣ 📂 images # Folder for images and assets
-  ┃ ┣ 📜 logo.png # Logo file
-  ┃ ┣ 📜 bg.jpg # Background image
-  ┃ ┣ 📜 bg_phone.jpg # Mobile-specific background image
-  ┃ ┣ 📜 user.jpg # Profile picture
-  ┃ ┣ 📜 NoSQL.pdf # Certificate: NoSQL
-  ┃ ┣ 📜 SpringBoot.pdf # Certificate: Spring Boot
-  ┃ ┗ 📜 JavaScript.pdf # Certificate: JavaScript Essentials
-  ┗ 📜 README.md # Documentation (this file)
+  ├ 📜 index.html # Main HTML file
+  ├ 📜 style.css # Styling file
+  ├ 📂 images # Folder for images and assets
+  │ ├ 📜 logo.png # Logo file
+  │ ├ 📜 bg.jpg # Background image
+  │ ├ 📜 bg_phone.jpg # Mobile-specific background image
+  │ ├ 📜 user.jpg # Profile picture
+  │ ├ 📜 NoSQL.pdf # Certificate: NoSQL
+  │ ├ 📜 SpringBoot.pdf # Certificate: Spring Boot
+  │ └ 📜 JavaScript.pdf # Certificate: JavaScript Essentials
+  └ 📜 README.md # Documentation (this file)
 
 
 ---
@@ -60,7 +60,7 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 
   1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/Pawan0019/Responsive-Personal-Portfolio.git
    ```
   2. Open index.html in your browser to view the website locally.\
 ---
@@ -78,18 +78,19 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
    Percentage: 88.4%
 ---
 ## Certifications
-  * Introduction to NoSQL Databases
-  * Spring Boot and React Stack
-  * JavaScript Essentials
-  * Building Recommender Systems with AI
+  * [Introduction to NoSQL Databases](https://drive.google.com/file/d/1XKmKbzezw97Sqri-SxMHLDBF8ju0hZfT/view?usp=sharing)
+  * [Spring Boot and React Stack](https://drive.google.com/file/d/1LI80UJB-OjnbQEZkk4HRRnurIJBptVsa/view?usp=sharing)
+  * [JavaScript Essentials](https://drive.google.com/file/d/1eAZnZRF3oHGh2rj9kerdjQVbSQcxH8bX/view?usp=sharing)
+  * [Building Recommender Systems with AI](https://drive.google.com/file/d/1kHU_CcOs0gI9R_yCJPnpZTMwzs2Khi3V/view?usp=sharing)
 ---
 ## Contact Me
   Feel free to reach out to me through any of the platforms below:
   a. Email: kumarguptapawan35@gmail.com
   b. Phone: +91 9315755108
-  c. LinkedIn: Pawan Kumar
-  d. GitHub: Pawan Kumar
 You can also send me a message using the contact form on the website.
+---
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Punamkumari10/Weather-Forecasting-App/blob/main/License/MIT%20License) file for details.
 ---
 ## Acknowledgments
 This project is inspired by my passion for web development and showcasing my work in an interactive way.
