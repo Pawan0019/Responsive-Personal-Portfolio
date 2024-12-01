@@ -85,17 +85,19 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 ---
 
 ## Certifications
+
   * [Introduction to NoSQL Databases](https://drive.google.com/file/d/1XKmKbzezw97Sqri-SxMHLDBF8ju0hZfT/view?usp=sharing)
   * [Spring Boot and React Stack](https://drive.google.com/file/d/1LI80UJB-OjnbQEZkk4HRRnurIJBptVsa/view?usp=sharing)
   * [JavaScript Essentials](https://drive.google.com/file/d/1eAZnZRF3oHGh2rj9kerdjQVbSQcxH8bX/view?usp=sharing)
   * [Building Recommender Systems with AI](https://drive.google.com/file/d/1kHU_CcOs0gI9R_yCJPnpZTMwzs2Khi3V/view?usp=sharing)
+
 ---
 
 ## Contact Me
-  Feel free to reach out to me through any of the platforms below:
-  a. Email: kumarguptapawan35@gmail.com
-  b. Phone: +91 9315755108
-You can also send me a message using the contact form on the website.
+- Feel free to reach out to me through any of the platforms below:
+  - Email: kumarguptapawan35@gmail.com
+  -  Phone: +91 9315755108
+-You can also send me a message using the contact form on the website.
 
 ---
 
