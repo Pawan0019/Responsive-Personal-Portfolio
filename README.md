@@ -32,19 +32,21 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 
 ## Folder Structure
 
-- **Portfolio Website**
-  - `index.html` - Main HTML file  
-  - `style.css` - Styling file  
-  - **images** - Folder for images and assets  
-    - `logo.png` - Logo file  
-    - `bg.jpg` - Background image  
-    - `bg_phone.jpg` - Mobile-specific background image  
-    - `user.jpg` - Profile picture  
-    - `NoSQL.pdf` - Certificate: NoSQL  
-    - `SpringBoot.pdf` - Certificate: Spring Boot  
-    - `JavaScript.pdf` - Certificate: JavaScript Essentials  
-    - `Build_Recommender_sys.pdf` - Certificate: Recommender Systems  
-  - `README.md` - Documentation file
+```plaintext
+  📂 Portfolio Website
+  ┣ 📜 index.html # Main HTML file
+  ┣ 📜 style.css # Styling file
+  ┣ 📂 images # Folder for images and assets
+  ┃ ┣ 📜 logo.png # Logo file
+  ┃ ┣ 📜 bg.jpg # Background image
+  ┃ ┣ 📜 bg_phone.jpg # Mobile-specific background image
+  ┃ ┣ 📜 user.jpg # Profile picture
+  ┃ ┣ 📜 NoSQL.pdf # Certificate: NoSQL
+  ┃ ┣ 📜 SpringBoot.pdf # Certificate: Spring Boot
+  ┃ ┣ 📜 JavaScript.pdf # Certificate: JavaScript Essentials
+  ┃ ┗ 📜 Build_Recommender_sys.pdf # Certificate: Recommender Systems
+  ┗ 📜 README.md # Documentation file
+```
 
 ---
 
@@ -64,7 +66,9 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
    git clone https://github.com/Pawan0019/Responsive-Personal-Portfolio.git
    ```
   2. Open index.html in your browser to view the website locally.
+
 ---
+
 ## Education
   * B. Tech in Computer Science Engineering (AI/ML):
     Noida Institute of Engineering and Technology, Greater Noida, Uttar Pradesh (2021–2025)
@@ -77,24 +81,32 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
   * CBSE Class X (2018–2019):
    Maharishi Vidya Mandir, Noida
    Percentage: 88.4%
+
 ---
+
 ## Certifications
   * [Introduction to NoSQL Databases](https://drive.google.com/file/d/1XKmKbzezw97Sqri-SxMHLDBF8ju0hZfT/view?usp=sharing)
   * [Spring Boot and React Stack](https://drive.google.com/file/d/1LI80UJB-OjnbQEZkk4HRRnurIJBptVsa/view?usp=sharing)
   * [JavaScript Essentials](https://drive.google.com/file/d/1eAZnZRF3oHGh2rj9kerdjQVbSQcxH8bX/view?usp=sharing)
   * [Building Recommender Systems with AI](https://drive.google.com/file/d/1kHU_CcOs0gI9R_yCJPnpZTMwzs2Khi3V/view?usp=sharing)
 ---
+
 ## Contact Me
   Feel free to reach out to me through any of the platforms below:
   a. Email: kumarguptapawan35@gmail.com
   b. Phone: +91 9315755108
 You can also send me a message using the contact form on the website.
+
 ---
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Punamkumari10/Weather-Forecasting-App/blob/main/License/MIT%20License) file for details.
+
 ---
+
 ## Acknowledgments
 This project is inspired by my passion for web development and showcasing my work in an interactive way.
 Special thanks to online resources and communities for guidance and inspiration.
+
 ---
 Made with ❤️ by Pawan Kumar
