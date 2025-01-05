@@ -53,9 +53,9 @@ Welcome to my **Responsive Portfolio Website**! This project showcases my skills
 ## Skills Showcased
 
 - **Languages:** Python, Java, SQL.
-- **Web Development:** HTML, CSS, JavaScript, React.
-- **Frameworks/Libraries:** Bootstrap, Tailwind CSS, TensorFlow, Scikit-learn.
-- **Database Management:** MySQL, MongoDB, PostgreSQL.
+- **Web Development:** HTML, CSS, JavaScript, .
+- **Frameworks/Libraries:** Bootstrap, Numpy, Scikit-Learn, Pandas.
+- **Database Management:** MySQL, MongoDB.
 
 ---
 
